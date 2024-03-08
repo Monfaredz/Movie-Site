@@ -311,6 +311,10 @@ section {
     font-size: 3rem;
 }
 
+#slider {
+    background-color: #1e1e2a;
+}
+
 #slider-section .movie-type {
     font-size: 1.5rem;
 }
